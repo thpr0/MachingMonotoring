@@ -1,40 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.API.Web\\MachineMonotoring.API.csproj": {}
+    "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.API.Web\\MachineMonotoring.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.API.Web\\MachineMonotoring.API.csproj": {
+    "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.API.Web\\MachineMonotoring.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.API.Web\\MachineMonotoring.API.csproj",
+        "projectUniqueName": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.API.Web\\MachineMonotoring.API.csproj",
         "projectName": "MachineMonotoring.API",
-        "projectPath": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.API.Web\\MachineMonotoring.API.csproj",
-        "packagesPath": "C:\\Users\\Mostafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.API.Web\\obj\\",
+        "projectPath": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.API.Web\\MachineMonotoring.API.csproj",
+        "packagesPath": "C:\\Users\\emlagzouli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.API.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\emlagzouli\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj": {
-                "projectPath": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj"
+              "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj": {
+                "projectPath": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj"
               },
-              "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj": {
-                "projectPath": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj"
+              "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj": {
+                "projectPath": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj"
               }
             }
           }
@@ -81,21 +79,20 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj",
+        "projectUniqueName": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj",
         "projectName": "MachineMonotoring.Service",
-        "projectPath": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj",
+        "projectPath": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineMonotoring.Service\\MachineMonotoring.Service.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj": {
-                "projectPath": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj"
+              "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj": {
+                "projectPath": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj"
               }
             }
           }
@@ -105,12 +102,25 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj",
         "projectName": "MachineProduction.Repository",
-        "projectPath": "C:\\Users\\Mostafa\\source\\repos\\MachineMonotoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj"
+        "projectPath": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineProduction.Repository\\MachineProduction.Repository.csproj",
+        "packagesPath": "C:\\Users\\emlagzouli\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\emlagzouli\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "packagesConfigPath": "C:\\Users\\emlagzouli\\Desktop\\Tests\\MachingMonotoring\\MachineMonitoring.API\\MachineProduction.Repository\\packages.config"
       },
       "frameworks": {
         "net472": {}

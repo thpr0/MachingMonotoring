@@ -86,13 +86,7 @@ namespace MachineMonotoring.API.Controllers
         [HttpDelete("Machine/{id}")]
         public IActionResult DeleteMachine(int id)
         {
-            var DeletedRows = _service.DeleteMachine(id);
-
-            if (DeletedRows == 0)
-            {
-                return NotFound();
-            }
-
+            var DeletedRows = _service.DeleteMachine(id);    
             return Ok(DeletedRows);
         }
     }

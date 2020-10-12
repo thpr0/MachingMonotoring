@@ -1,8 +1,8 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
-import { Machine } from '../_Models/Machine';
-import { MachineService } from '../machine.service';
+import { Machine } from '../../_Models/Machine';
+import { MachineService } from 'src/app/_Services/machine.service';
 
 @Component({
   selector: 'app-machine-details',

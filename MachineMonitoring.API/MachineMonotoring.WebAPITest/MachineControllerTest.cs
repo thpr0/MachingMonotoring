@@ -86,21 +86,6 @@ namespace MachineMonotoring.WebAPITest
             IActionResult result = home.GetTotalProduction(1);
             Assert.IsType<OkObjectResult>(result);
         }
-
-
-        [Fact]
-        public void TestDeleteMachineStatusNotFound()
-        {
-
-            var mock = new Mock<IMachineService>();
-            mock.Setup(p => p.DeleteMachine(1)).Returns(0);
-
-            MachineController home = new MachineController(mock.Object);
-            IActionResult result = home.DeleteMachine(1);
-            Assert.IsType<NotFoundResult>(result);
-        }
-
-
         [Fact]
         public void TestDeleteMachineStatusOk()
         {
